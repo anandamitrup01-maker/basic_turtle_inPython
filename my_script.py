@@ -9,7 +9,7 @@
 
 
 def main() -> None:
-    print("Start coding in Python today!")
+    
     # import turtle
     # import colorsys
     # t = turtle.Turtle()
@@ -43,62 +43,6 @@ for i in range (16):
         circle(150 - j * 6, 90)
         rt(180)
         circle(40, 2.5)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # if __name__ == "__main__":
     main()
