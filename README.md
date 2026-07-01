@@ -20,4 +20,4 @@ Colorsys
 
 <img src="jYNa6.gif" alt="Rainbow Turtle Animation" width="700">
 
-Start coding in Python today!
+
