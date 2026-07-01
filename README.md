@@ -2,7 +2,7 @@
 
 A creative Python Turtle Graphics project that generates a colorful animated geometric pattern using the turtle and colorsys modules. The artwork is created by combining circles, rotations, and smoothly changing HSV colors.
 
-## ✨ Features
+✨ Features
 🌈 Dynamic rainbow color transitions using the colorsys module
 🐢 Beautiful geometric pattern created with Python Turtle
 🎨 Smooth color animation
